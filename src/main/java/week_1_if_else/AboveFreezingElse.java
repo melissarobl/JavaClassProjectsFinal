@@ -11,7 +11,7 @@ public class AboveFreezingElse {
         if (temp>32){
             //This will run if the condition is true
             System.out.println("It's above freezing");
-        } else{
+        } else {
             System.out.println("It's below freezing");
         }
     }
